@@ -5,9 +5,13 @@ install the PyPDF2 using PIP:
 ```bash
 pip install PyPDF2
 ```
-##Run
+## Run
 run the file using terminal
 ```bash
 python pdf_merger.py args
 ```
 ### ps: args is the name of the pdf files that you want to merge.
+**Example**:
+```bash
+python pdf_merger.py file1.pdf file2.pdf
+```
